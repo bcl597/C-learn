@@ -1,0 +1,3 @@
+D:/Devlop/C/0-4Point/cmake-build-debug/CMakeFiles/0_4Point.dir
+D:/Devlop/C/0-4Point/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Devlop/C/0-4Point/cmake-build-debug/CMakeFiles/rebuild_cache.dir
