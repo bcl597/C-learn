@@ -1,0 +1,3 @@
+D:/Devlop/C/DS/1-3Stack/cmake-build-debug/CMakeFiles/1_3Stack.dir
+D:/Devlop/C/DS/1-3Stack/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Devlop/C/DS/1-3Stack/cmake-build-debug/CMakeFiles/rebuild_cache.dir
